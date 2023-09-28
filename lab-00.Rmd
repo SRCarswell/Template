@@ -70,4 +70,3 @@ p2
 ```
 
 *Remove this text (including the stars) and add your answer for Exercise 20 here.*
-Hello
